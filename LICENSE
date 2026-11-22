@@ -1,21 +1,23 @@
-MIT License
+Copyright (c) 2026 Daniel Luiz Coelho dos Santos. Todos os direitos reservados.
 
-Copyright (c) 2026 Daniel Coelho
+Este repositorio e todo o material didatico de autoria do organizador (incluindo textos explicativos, organização em capítulos, roteiros de estudo, exemplos de algoritmos em VisuAlg Web e enunciados/resoluções próprios) são protegidos por direitos autorais.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+PERMISSÃO PARA ESTUDO E APRENDIZADO
+É permitida a leitura, consulta e execução local do conteúdo exclusivamente para fins de estudo individual, pesquisa pessoal ou aprendizado próprio, desde que:
+a) a autoria original de Daniel Luiz Coelho dos Santos seja mantida e citada;
+b) nenhum aviso de autoria ou referência a este arquivo seja removido.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+RESTRIÇÃO DE USO PÚBLICO E DISTRIBUIÇÃO
+Sem consentimento prévio e expresso por escrito do autor, e expressamente proibido:
+a) republicar, copiar ou espelhar este material em outros sites, repositorios publicos, redes sociais, plataformas de ensino ou ambientes abertos;
+b) incorporar o conteúdo em materiais didáticos institucionais, apostilas, cursos, treinamentos ou produtos comerciais;
+c) redistribuir, vender, sublicenciar ou modificar o material para divulgação pública.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOLICITAÇÃO DE CONSENTIMENTO
+Interessados em obter autorização para uso público, divulgação acadêmica, adaptação ou aplicação institucional devem entrar em contato diretamente com o autor por meio de seus canais oficiais informados no README.md do repositório.
+
+OBSERVAÇÃO SOBRE FONTES BIBLIOGRAFICAS
+As obras referênciadas na bibliografia do projeto pertencem a seus respectivos autores e editoras e permanecem sujeitas as suas proprias legislações e licenças de direitos autorais.
+
+ISENÇÃO DE GARANTIA
+O material e disponibilizado "NO ESTADO EM QUE SE ENCONTRA" ("AS IS"), sem garantias expressas ou implicitas de adequação a qualquer finalidade específica.
