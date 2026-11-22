@@ -2,7 +2,7 @@
 
 ## 1. Apresentação e Objetivos do Repositório
 
-Este repositório tem como objetivo central sistematizar, documentar e exemplificar os fundamentos da **Lógica e das Técnicas de Programação**, utilizando a abordagem de pseudocódigo por meio do ambiente **VisuAlg Web**. A proposta consiste em construir um material didático, prático e progressivo, voltado ao desenvolvimento do raciocínio algorítmico antes da transição para linguagens compiladas e fortemente tipadas, como Java e C++.
+Este repositório tem como objetivo central sistematizar, documentar e exemplificar os fundamentos da **Lógica e das Técnicas de Programação**, utilizando a abordagem de pseudocódigo por meio do ambiente **VisuAlg Web**. A proposta consiste em construir um material didático, prático e progressivo, voltado ao desenvolvimento do raciocínio algorítmico antes da transição para alguma linguagem de progração.
 
 De modo específico, este projeto busca:
 
@@ -19,7 +19,7 @@ A construção de algoritmos constitui a etapa essencial que antecede a codifica
 
 Nesse sentido, o uso do pseudocódigo (Portugol) no **VisuAlg Web** justifica-se pedagogicamente por reduzir a barreira inicial da sintaxe em língua inglesa e permitir que o estudante concentre seus esforços na lógica de controle de fluxo, na tipagem de dados e na rastreabilidade da execução (ALÉSSIO, 2017). Conforme destacam Oliveira e Pereira (2023), o domínio consciente sobre a organização dos dados na memória (por meio de variáveis simples, vetores, matrizes e registros) é determinante para o desenvolvimento de soluções escaláveis e bem estruturadas.
 
-Além disso, a progressão até a modularização (procedimentos e funções) e às técnicas clássicas de busca e ordenação prepara o raciocínio para avaliar o desempenho das soluções propostas. Como aponta Silveira (2015), compreender o funcionamento interno dos algoritmos de ordenação e busca permite escolher estratégias computacionais mais eficientes em termos de tempo de execução e consumo de memória, competência indispensável na transição posterior para Java ou C++.
+Além disso, a progressão até a modularização (procedimentos e funções) e às técnicas clássicas de busca e ordenação prepara o raciocínio para avaliar o desempenho das soluções propostas. Como aponta Silveira (2015), compreender o funcionamento interno dos algoritmos de ordenação e busca permite escolher estratégias computacionais mais eficientes em termos de tempo de execução e consumo de memória, competência indispensável na transição posterior para alguma linguagem de progração, como Java, C++, entre outras.
 
 ---
 
