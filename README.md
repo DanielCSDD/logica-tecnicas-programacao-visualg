@@ -102,3 +102,9 @@ Atua como **Professor Mediador** nos cursos da área de tecnologia da **UNIASSEL
 - **Currículo Lattes:** [lattes.cnpq.br](https://lattes.cnpq.br/9562338405383465)
 - **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/danielluizcoelho)
 - **GitHub:** [github.com](https://github.com/DanielCSDD/logica-tecnicas-programacao-visualg.git)
+
+## 7. Direitos Autorais e Licença de Uso
+
+Este repositório é protegido por direitos autorais de **Daniel Luiz Coelho dos Santos**. O conteúdo é disponibilizado para **estudo e aprendizado individual**, sendo vedado o uso público, republicação, redistribuição ou finalidade comercial sem consentimento prévio do autor.
+
+Consulte as condições completas no arquivo [LICENSE](LICENSE).
