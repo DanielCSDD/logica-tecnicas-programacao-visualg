@@ -99,7 +99,6 @@ Profissional de tecnologia e educador, com formação superior em **Sistemas de 
 
 Atua como **Professor Mediador** nos cursos da área de tecnologia da **UNIASSELVI**, oferecendo suporte técnico e orientação acadêmica, além de possuir experiência sólida no desenvolvimento e manutenção de sistemas corporativos em **Java** e aplicações web. Este repositório reúne a sistematização didática de suas práticas de ensino e fundamentação algorítmica.
 
-- **Currículo Lattes:** [lattes.cnpq.br/9562338405383465](https://lattes.cnpq.br/9562338405383465)
-- **LinkedIn:** [linkedin.com/in/daniel-luiz-coelho-dos-santos-143455a4](https://www.linkedin.com/in/daniel-luiz-coelho-dos-santos-143455a4)
-- **GitHub:** [github.com/DanielCSDD](https://github.com/DanielCSDD)
-- **E-mail:** daniel.coelho.santos@gmail.com
+- **Currículo Lattes:** [lattes.cnpq.br](https://lattes.cnpq.br/9562338405383465)
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/danielluizcoelho)
+- **GitHub:** [github.com](https://github.com/DanielCSDD/logica-tecnicas-programacao-visualg.git)
